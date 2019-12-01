@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    android:orientation="vertical"
+    tools:context=".Detail">
+
+    <ImageView
+        android:id="@+id/outputdataphoto"
+        android:background="@drawable/poster_spiderman"
+        android:layout_width="110dp"
+        android:layout_height="170dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:id="@+id/outputjudul"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Movie Title"
+        android:layout_marginLeft="130dp"
+        android:textStyle="bold"
+        android:textSize="16dp"
+        android:textColor="#5174de"/>
+
+    <TextView
+        android:id="@+id/outputjudulfilm"
+        android:layout_width="wrap_content"
+        android:text="Release"
+        android:textColor="#fafafa"
+        android:textStyle="bold"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/outputjudul"
+        android:layout_marginTop="6dp"
+        android:layout_marginLeft="132dp" />
+
+    <TextView
+        android:id="@+id/outputrelease"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/outputjudulfilm"
+        android:layout_marginTop="6dp"
+        android:layout_marginLeft="132dp"
+        android:textStyle="bold"
+        android:textColor="#5174de"
+        android:textSize="16dp" />
+
+    <TextView
+        android:id="@+id/outputtglrelease"
+        android:textColor="#fafafa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/outputrelease"
+        android:layout_marginTop="6dp"
+        android:layout_marginLeft="132dp" />
+
+    <TextView
+        android:id="@+id/outputdirector"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/outputtglrelease"
+        android:layout_marginTop="6dp"
+        android:layout_marginLeft="132dp"
+        android:text="Tgl Release"
+        android:textStyle="bold"
+        android:textColor="#5173de"
+        android:textSize="16dp" />
+
+    <TextView
+        android:id="@+id/outputdatadirector"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#fafafa"
+        android:layout_below="@id/outputdirector"
+        android:layout_marginTop="6dp"
+        android:layout_marginLeft="132dp" />
+
+    <TextView
+        android:id="@+id/outputdatadescription"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:textColor="#fafafa"
+        android:lineSpacingExtra="4dp"
+        android:layout_below="@id/description1"
+        android:layout_marginLeft="10dp" />
+
+    <TextView
+        android:id="@+id/description1"
+        android:text="Description"
+        android:textColor="#5174de"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:layout_below="@id/outputdataphoto"
+        android:layout_marginLeft="10dp"/>
+
+</RelativeLayout>

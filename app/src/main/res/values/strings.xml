@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">FilmAzwar</string>
+    <string name="movietitle">Movie Title</string>
+    <string name="release">Release</string>
+    <string name="director">Director</string>
+    <string name="description1">Description</string>
+    <string name="name_heroes">Nama Film</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+
+    <string-array name="data_name">
+        <item>A Star is Born</item>
+        <item>Aquaman</item>
+        <item>Avenger: Infinity</item>
+        <item>Bohemian Rhapsody</item>
+        <item>Bird Box</item>
+        <item>the girl in the spiders web</item>
+        <item>Robin Hood</item>
+        <item>Venom</item>
+        <item>The Mule</item>
+        <item>Spider-Man</item>
+    </string-array>
+
+    <string-array name="tgl_release">
+        <item>October 3, 2018</item>
+        <item>December 7, 2018</item>
+        <item>April 25, 2018</item>
+        <item>September 28, 2018</item>
+        <item>November 2, 2018</item>
+        <item>December 21, 2018</item>
+        <item>November 21, 2018</item>
+        <item>December 11, 2018</item>
+        <item>November 20, 2018</item>
+        <item>December 14, 2018</item>
+    </string-array>
+
+    <string-array name="data_director">
+        <item>Bradley Cooper</item>
+        <item>James Wan</item>
+        <item>Russo Bersaudara</item>
+        <item>Bryan Singer</item>
+        <item>Susanne Bier</item>
+        <item>Fede Alvarez</item>
+        <item>Otto Bathurst</item>
+        <item>Ruben Fleischer</item>
+        <item>Clint Eastwood</item>
+        <item>Jon Watts</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Film A Star Is Born (2018) sejatinya mengisahkan mimpi klasik ala Hollywood dengan naskah yang sudah diadaptasi berkali-kali. Tapi, kisahnya tetap memikat dan bahkan masih mampu menggugah emosi saat menonton. Gabungan antara drama, musik, cinta, komedi, hingga isu sosial dalam A Star Is Born (2018) diramu secara pas sehingga meninggalkan segudang perasaan saat beranjak dari kursi bioskop di akhir film. Mengangkat kisah klasik A Star Is Born yang aslinya rilis pada 1937, versi Bradley Cooper dan Lady Gaga kali ini sebenarnya lebih mirip dengan edisi 1954 dan 1976 namun digabung menjadi satu. Kisah A Star Is Born yang asli dibuat oleh William A Wellman, Robert Carson, Dorothy Parker, dan Alan Campbell untuk sebuah film yang dirilis pada 1937. Kisah film tersebut kemudian digarap ulang pada 1954 dan 1976 dengan sejumlah modifikasi.</item>
+        <item>Aquaman adalah film pahlawan super Amerika tahun 2018 yang didasarkan pada karakter DC Comics, Aquaman, dan didistribusikan oleh Warner Bros. Pictures. Ini adalah angsuran keenam di DC Extended Universe (DCEU). Film ini disutradarai oleh James Wan, dengan skenario oleh David Leslie Johnson-McGoldrick dan Will Beall, dan didasarkan pada sebuah cerita dari Geoff Johns, Wan dan Beall. Ini dibintangi Jason Momoa sebagai karakter judul, dengan Amber Heard, Willem Dafoe, Patrick Wilson, Dolph Lundgren, Yahya Abdul-Mateen II, dan Nicole Kidman dalam peran pendukung. Ini adalah film teater laga hidup ketiga yang menampilkan Aquaman, mengikuti Batman v Superman: Dawn of Justice (2016) dan Justice League (2017), dan film pertama yang berpusat di sekitar karakter.</item>
+        <item>Avengers: Infinity War adalah film superhero yang berasal dari Amerika Serikat tahun 2018 beranggotakan tim superhero Avengers yang diproduksi oleh Marvel Studios dan didistribusikan oleh Walt Disney Studios Motion Pictures. Film ini adalah sekuel dari The Avengers dan Avengers: Age of Ultron, serta merupakan film kesembilan belas dalam Marvel Cinematic Universe (MCU). Film ini disutradarai oleh Anthony dan Joe Russo, dengan naskah ditulis oleh Christopher Markus dan Stephen McFeely, dan menampilkan para pemeran seperti Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans, Scarlett Johansson, Benedict Cumberbatch, Don Cheadle, Tom Holland, Chadwick Boseman, Paul Bettany, Elizabeth Olsen, Anthony Mackie, Sebastian Stan, Danai Gurira, Letitia Wright, Dave Bautista, Zoe Saldana, Josh Brolin, dan Chris Pratt. Dalam Avengers: Infinity War</item>
+        <item>Bohemian Rhapsody adalah sebuah film biografi tahun 2018 tentang grup band rock Inggris, Queen. Film ini menceritakan tentang kehidupan penyanyi Freddie Mercury, yang berujung pada penampilan Queen pada konser Live Aid di Stadion Wembley pada tahun 1985. Bohemian Rhapsody disutradarai oleh Bryan Singer, skenario film ini ditulis oleh Anthony McCarten dan diproduseri oleh Graham King dan mantan manajer Queen Jim Beach. Film ini dibintangi oleh Rami Malek sebagai Mercury, dan didukung oleh para pemeran di antaranya seperti Lucy Boynton, Gwilym Lee, Ben Hardy, Joe Mazzello, Aidan Gillen, Allen Leech, Tom Hollander dan Mike Myers. Anggota grup band Queen, Brian May dan Roger Taylor bertindak sebagai konsultan kreatif dan musik pada film ini.</item>
+        <item>Bird Box adalah sebuah film produksi tahun 2018 yang berasal dari Amerika Serikat bergenre post-apocalyptic. Film ini disutradarai oleh Susanne Bier, naskah ditulis oleh Eric Heisserer, berdasarkan novel berjudul sama, karya novelis Josh Malerman yang terbit pada tahun 2014. Film ini menceritakan perjalanan seorang wanita, diperankan oleh Sandra Bullock, yang bersama dua orang anak tak bernama, yang dipanggil Boy dan Girl, terpaksa harus melewati hutan dan mengarungi sungai dengan memakai penutup mata, agar terhindar dari bahaya yang ditimbulkan oleh mahluk supernatural untuk bertahan hidup dan terhindar dari ancaman bunuh diri. Film ini juga dibintangi oleh Trevante Rhodes, Jacki Weaver, Rosa Salazar, Danielle Macdonald, Lil Rel Howery, Tom Hollander, BD Wong, Sarah Paulson, Machine Gun Kelly (credited as Colson Baker), dan John Malkovich.</item>
+        <item>The Girl is a 2012 British television film directed by Julian Jarrold, written by Gwyneth Hughes and produced by the BBC and HBO Films. The film stars Sienna Miller as Tippi Hedren and Toby Jones as Alfred Hitchcock. It is based on Donald Spoto s 2009 book, Spellbound by Beauty: Alfred Hitchcock and His Leading Ladies, which discusses the English film director Hitchcock and the women who played leading roles in his films. The Girls title was inspired by Hitchcocks alleged nickname for Hedren.</item>
+        <item>Film adaptasi terbaru tentang si pencuri budiman Robin Hood baru saja dirilis di Indonesia pada November 2018 ini. Dibintangi aktor seperti Taron Egerton dan Jamie Foxx, mungkin banyak yang penasaran dengan film garapan Otto Bathurst ini. Dalam film ini, Robin of Loxley (Taron Egerton), adalah seorang tentara Perang Salib yang hendak memberontak atas Kerajaan Inggris yang lalim. Ia, dibantu oleh komandannya, Little John (Jamie Foxx). Meski menjanjikan petualangan dan adegan laga yang padat di dalamnya, ternyata Robin Hood versi 2018 ini malah mengecewakan kritikus film.</item>
+        <item>Venom adalah sebuah film pahlawan super Amerika mendatang berdasarkan karakter Marvel Comics dengan nama yang sama, diproduksi oleh Columbia Pictures bekerja sama dengan Marvel[5] dan didistribusikan oleh Sony Pictures Releasing. Film ini dimaksudkan untuk menjadi film pertama dalam Marvel Universe dari Sony, tambahan untuk Marvel Cinematic Universe (MCU).[a] Film ini disutradarai oleh Ruben Fleischer dengan skenario oleh Scott Rosenberg, Jeff Pinkner, dan Kelly Marcel, serta dibintangi oleh Tom Hardy sebagai Eddie Brock / Venom, di samping Michelle Williams, Riz Ahmed, Scott Haze, dan Reid Scott.</item>
+        <item>Usia yang sudah senja kerap membuat para lansia menjadi goyah. Seolah-olah mereka kebingungan dengan apa yang akan dilakukan. Bahkan tidak jarang, mereka sengaja “disingkirkan” begitu saja dari kehidupan. Namun, tidak dengan Clint Eastwood. Urat-uratnya terlihat jelas di sekujur tubuhnya, badannya terlihat sangat kurus kuyu. Tapi ia punya hati dan bernyali. Semuanya akan disajikan di dalam review The Mule yang akan tayang tanggal 30 Januari 2019 di bioskop.</item>
+        <item>Ketika Spider-Man pertama kali muncul di awal 1960-an, remaja di buku komik superhero biasanya terdegradasi ke peran sidekick ke protagonis. Serial Spider-Man memecahkan masalah dengan menampilkan Peter Parker, siswa SMA di balik identitas rahasia Spider-Man dan dengan "obsesi diri dengan penolakan, ketidakmampuan, dan kesepian" sehingga pembaca muda bisa berhubungan.[1] Sementara Spider-Man memiliki semua bakat sidekick, tidak seperti pahlawan remaja sebelumnya seperti Bucky dan Robin, Spider-Man tidak memiliki mentor superhero seperti Captain America dan Batman; dengan demikian dia harus belajar untuk dirinya sendiri bahwa "dengan kekuatan besar di sana juga harus ada tanggung jawab yang besar"– sebuah garis yang termasuk dalam kotak teks di panel akhir cerita Spider-Man</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_thegirl</item>
+        <item>@drawable/poster_robinhood</item>
+        <item>@drawable/poster_venom</item>
+        <item>@drawable/poster_themule</item>
+        <item>@drawable/poster_spiderman</item>
+    </array>
+</resources>
